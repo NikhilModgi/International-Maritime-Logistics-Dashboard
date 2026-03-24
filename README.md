@@ -66,11 +66,11 @@ Dedicated page showing the impact of the **Ever Given** blockage:
 *(Add these images to a `screenshots/` folder in your repo)*
 
 **Page 1 – Main Overview**  
-https://github.com/NikhilModgi/International-Maritime-Logistics-Dashboard/blob/main/screenshots/1%20International%20Maritime%20Executive%20Summary%20Page.jpg
+(https://github.com/NikhilModgi/International-Maritime-Logistics-Dashboard/blob/main/screenshots/1%20International%20Maritime%20Executive%20Summary%20Page.jpg)
 
 **Page 2 – Suez Canal Block Analysis**  
-https://github.com/NikhilModgi/International-Maritime-Logistics-Dashboard/blob/main/screenshots/2%20Suez%20Canal%20Block%20Analysis.jpg
+(https://github.com/NikhilModgi/International-Maritime-Logistics-Dashboard/blob/main/screenshots/2%20Suez%20Canal%20Block%20Analysis.jpg)
 
 **Page 3 – Terminal Efficiency**  
-https://github.com/NikhilModgi/International-Maritime-Logistics-Dashboard/blob/main/screenshots/3.%20Terminal%20Efficiency%20Analysis.jpg
+(https://github.com/NikhilModgi/International-Maritime-Logistics-Dashboard/blob/main/screenshots/3.%20Terminal%20Efficiency%20Analysis.jpg)
 
