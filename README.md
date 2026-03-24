@@ -59,4 +59,19 @@ Dedicated page showing the impact of the **Ever Given** blockage:
 | **Power BI Desktop** | Dashboard development         |
 | **DAX**           | Custom measures & calculations   |
 | **Power Query**   | Data cleaning & modeling         |
-| **Excel / CSV**   | Source data                     |
+| **Excel / CSV**   | Source data                      |
+
+## 📸 Screenshots
+
+*(Add these images to a `screenshots/` folder in your repo)*
+
+**Page 1 – Main Overview**  
+
+
+**Page 2 – Suez Canal Block Analysis**  
+
+
+**Page 3 – Terminal Efficiency**  
+
+
+**Full PDF Export** → 
